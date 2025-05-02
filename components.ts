@@ -1,0 +1,10 @@
+// This file exports all components for easier imports
+export * from "./components/custom-cursor"
+export * from "./components/footer"
+export * from "./components/qr-background"
+export * from "./components/ui/button"
+export * from "./components/ui/card"
+export * from "./components/ui/input"
+export * from "./components/ui/label"
+export * from "./components/ui/select"
+export * from "./components/ui/slider"
